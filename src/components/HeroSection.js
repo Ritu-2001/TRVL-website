@@ -3,7 +3,7 @@ import '../App.css';
 import { Button } from './button';
 import './HeroSection.css';
 import bg from '../images/img-4.jpg';
- import {video} from "../videos/video-1.mp4";
+//  import {video} from "../videos/video-1.mp4";
 
 function HeroSection() {
   return (
